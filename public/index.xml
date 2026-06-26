@@ -5,15 +5,53 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Giang Blog</description>
     <generator>Hugo</generator>
-    <language>vi-vn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <language>vi-VN</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Xin chào</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;p&gt;Đây là blog đầu tiên của mình.&lt;/p&gt;</description>
+      <title>Bài viết đầu tiên trên Giang Blog</title>
+      <link>http://localhost:1313/posts/bai-viet-dau-tien/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bai-viet-dau-tien/</guid>
+      <description>Bài viết đầu tiên giới thiệu blog công nghệ cá nhân.</description>
+    </item>
+    <item>
+      <title>Giới thiệu về Giang Blog</title>
+      <link>http://localhost:1313/posts/gioi-thieu-blog/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gioi-thieu-blog/</guid>
+      <description>Giới thiệu blog cá nhân về lập trình và công nghệ.</description>
+    </item>
+    <item>
+      <title>Tạo blog miễn phí bằng Hugo và GitHub Pages</title>
+      <link>http://localhost:1313/posts/tao-blog-hugo-github-pages/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tao-blog-hugo-github-pages/</guid>
+      <description>Hướng dẫn tạo blog cá nhân miễn phí bằng Hugo và GitHub Pages.</description>
+    </item>
+    <item>
+      <title>Dự án</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;dự-án-thực-tế&#34;&gt;Dự án thực tế&lt;/h1&gt;
+&lt;h2 id=&#34;ứng-dụng-quản-lý-thu-mua&#34;&gt;Ứng dụng quản lý thu mua&lt;/h2&gt;
+&lt;p&gt;Ứng dụng desktop dùng:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ASP.NET Core&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Electron&lt;/li&gt;
+&lt;li&gt;SQL Server&lt;/li&gt;
+&lt;li&gt;Excel Export&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chức năng:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quản lý khách hàng&lt;/li&gt;
+&lt;li&gt;Quản lý nhân viên&lt;/li&gt;
+&lt;li&gt;Import Excel&lt;/li&gt;
+&lt;li&gt;In phiếu thu / phiếu chi&lt;/li&gt;
+&lt;li&gt;Đóng gói thành app Windows&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Giới thiệu</title>
@@ -22,8 +60,7 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;xin-chào-&#34;&gt;Xin chào 👋&lt;/h1&gt;
 &lt;p&gt;Mình là &lt;strong&gt;Ngô Văn Giang&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Backend Developer.&lt;/p&gt;
-&lt;h2 id=&#34;công-nghệ&#34;&gt;Công nghệ&lt;/h2&gt;
+&lt;p&gt;Mình làm về:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ASP.NET Core&lt;/li&gt;
 &lt;li&gt;React&lt;/li&gt;
@@ -32,7 +69,7 @@
 &lt;li&gt;GitHub&lt;/li&gt;
 &lt;li&gt;Windows&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Blog này chia sẻ kiến thức lập trình và công nghệ.&lt;/p&gt;</description>
+&lt;p&gt;Blog này dùng để chia sẻ kiến thức lập trình, kinh nghiệm làm dự án và thủ thuật công nghệ.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

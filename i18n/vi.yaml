@@ -1,0 +1,37 @@
+- id: prev_page
+  translation: "Trang trước"
+
+- id: next_page
+  translation: "Trang sau"
+
+- id: read_time
+  translation:
+    one: "1 phút"
+    other: "{{ .Count }} phút"
+
+- id: toc
+  translation: "Mục lục"
+
+- id: translations
+  translation: "Ngôn ngữ"
+
+- id: home
+  translation: "Trang chủ"
+
+- id: posts
+  translation: "Bài viết"
+
+- id: page_not_found
+  translation: "Không tìm thấy trang"
+
+- id: search
+  translation: "Tìm kiếm"
+
+- id: archive
+  translation: "Lưu trữ"
+
+- id: tags
+  translation: "Thẻ"
+
+- id: categories
+  translation: "Chuyên mục"

@@ -1,14 +1,69 @@
 baseURL = "https://vangiangtrithuc-code.github.io/"
 languageCode = "vi-vn"
-title = "Blog của Giang"
+title = "Giang Blog"
 theme = "PaperMod"
+
+enableRobotsTXT = true
+enableEmoji = true
 
 [pagination]
 pagerSize = 10
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [params]
+author = "Ngô Văn Giang"
+defaultTheme = "auto"
 ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
+ShowToc = true
+TocOpen = false
+description = "Chia sẻ kiến thức ASP.NET Core, React, Electron, SQL Server, Windows."
+
+[params.homeInfoParams]
+Title = "👋 Xin chào, mình là Ngô Văn Giang"
+Content = """
+Backend Developer.
+
+🚀 ASP.NET Core  
+⚛️ React  
+🖥 Electron  
+🗄 SQL Server  
+
+Chia sẻ kiến thức lập trình, kinh nghiệm thực tế và các dự án mình thực hiện.
+"""
+
+[[menu.main]]
+identifier = "posts"
+name = "Bài viết"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "Giới thiệu"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "categories"
+name = "Chuyên mục"
+url = "/categories/"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 4
+
+[[menu.main]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/vangiangtrithuc-code"
+weight = 5

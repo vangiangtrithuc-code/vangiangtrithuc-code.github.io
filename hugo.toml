@@ -37,6 +37,13 @@ Backend Developer.
 
 Chia sẻ kiến thức lập trình, kinh nghiệm thực tế và các dự án mình thực hiện.
 """
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/vangiangtrithuc-code"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:dkgiang.a2@gmail.com"
 
 [[menu.main]]
 identifier = "posts"

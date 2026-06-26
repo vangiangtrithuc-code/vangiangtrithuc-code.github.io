@@ -57,13 +57,13 @@ url = "/categories/"
 weight = 3
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
+identifier = "projects"
+name = "Dự án"
+url = "/projects/"
 weight = 4
 
 [[menu.main]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/vangiangtrithuc-code"
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
 weight = 5
